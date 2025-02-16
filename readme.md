@@ -1,20 +1,20 @@
 Projet Servlet - Déploiement sur Tomcat
 
-Présentation
+*Présentation
 
 J'ai développé une application Java EE avec une Servlet, déployée sur Apache Tomcat, en utilisant IntelliJ IDEA Ultimate.
 
-Outils Utilisés
+*Outils Utilisés
 
 IntelliJ IDEA Ultimate
 
-Apache Tomcat 9+
+Apache Tomcat 10.1.351
 
-JDK 8+
+JDK 22.0.1
 
 Git & GitHub
 
-Étapes
+*Étapes
 
 1. Création du Projet
 
