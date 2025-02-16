@@ -4,7 +4,9 @@
 <head>
 </head>
 <body>
-<h1><%= "Bonjour Alain Trad" %>
+<h1><%= "Hello World!" %>
 </h1>
+<br/>
+<a href="maservlet">Click for my Servlet</a>
 </body>
 </html>
